@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-07-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2ec2116`](https://github.com/stdlib-js/stdlib/commit/2ec2116fb43058cddc4bf726defbe60823bd2590) - **docs:** fix typo _(by Athan Reines)_
 -   [`cd30ae4`](https://github.com/stdlib-js/stdlib/commit/cd30ae4e94a3874a3850eb5ddec63d9360e20413) - **feat:** add `blas/base/wasm/isamax` [(#3984)](https://github.com/stdlib-js/stdlib/pull/3984) _(by Aman Bhansali, Athan Reines, stdlib-bot)_
 
 </details>
